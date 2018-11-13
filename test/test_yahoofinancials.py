@@ -1,6 +1,6 @@
 # YahooFinancials Unit Tests v1.3
 # Version Released: 10/25/2018
-# Author: Connor Sanders
+# Author: Jarvis
 # Tested on Python 2.7, 3.3, 3.4, 3.5, and 3.6
 # Copyright (c) 2018 Connor Sanders
 # MIT License

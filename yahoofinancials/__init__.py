@@ -4,8 +4,8 @@ The Yahoo Financials Module
 Version: 1.3
 ==============================
 
-Author: Connor Sanders
-Email: sandersconnor1@gmail.com
+Author: Jarvis
+Email: email.sumandey@gmail.com
 Version Released: 10/25/2018
 Tested on Python 2.7, 3.3, 3.4, 3.5, and 3.6
 
